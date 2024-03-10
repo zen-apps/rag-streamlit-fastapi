@@ -1,0 +1,4 @@
+dev.env
+index.faiss
+index.pkl
+*.pyc
